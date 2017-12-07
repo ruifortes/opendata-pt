@@ -15,6 +15,10 @@ A estrutura do repositório ainda está em aberto mas como ponto de partida opte
 Existe uma pasta para cada "dataset" onde existe um ficheiro readme.md com a informação principal. Uma pasta "samples" poderá conter exemplos dos dados existentes no dataset assim como um readme que as identifica.
 Um ficheiro "problemas.md" manterá um registo de eventuais problemas existentes no dataset e referencias para os "github issues" relevantes.
 
+Datasets
+--------
+
+[Diário da República Electrónico](https://github.com/ruifortes/opendata-pt/tree/master/datasets/dre)
 
 Links
 -----
